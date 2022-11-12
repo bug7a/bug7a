@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+The areas I specialize in;
+- Single-page web application development.
+- Mobile (Android, iOS) application development.
+- Web/Mobile application design.
+
+Example project:
+https://bug7a.github.io/cordova-mobile-app-ui-template/
+
 <!--
 **bug7a/bug7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
