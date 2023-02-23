@@ -14,8 +14,7 @@ http://bugraozden.com/
 Example project:<br>
 https://bug7a.github.io/cordova-mobile-app-ui-template/
 
-Best regards,<br>
-Bugra OZDEN
+<br>
 
 <!--
 **bug7a/bug7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
