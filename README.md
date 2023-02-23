@@ -1,12 +1,21 @@
 ### Hi there 👋
 
-The areas I specialize in;
-- Single-page web application development.
-- Mobile (Android, iOS) application development.
-- Web/Mobile application design.
+My areas of expertise include:
+
+- Developing single-page web applications
+- Developing hybrid mobile applications for Android and iOS platforms
+- Enhancing web/mobile application analysis, design, and user experience
+
+The primary technologies that I utilize are JavaScript, PHP, and MySql.
+
+For more information about my work, please feel free to visit my personal page.
+http://bugraozden.com/
 
 Example project:
 https://bug7a.github.io/cordova-mobile-app-ui-template/
+
+Best regards,
+Bugra OZDEN
 
 <!--
 **bug7a/bug7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
