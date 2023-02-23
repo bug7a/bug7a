@@ -8,13 +8,13 @@ My areas of expertise include:
 
 The primary technologies that I utilize are JavaScript, PHP, and MySql.
 
-For more information about my work, please feel free to visit my personal page.
+For more information about my work, please feel free to visit my personal page.<br>
 http://bugraozden.com/
 
-Example project:
+Example project:<br>
 https://bug7a.github.io/cordova-mobile-app-ui-template/
 
-Best regards,
+Best regards,<br>
 Bugra OZDEN
 
 <!--
