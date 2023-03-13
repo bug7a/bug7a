@@ -2,11 +2,14 @@
 
 My areas of expertise include:
 
-- Developing single-page web applications
-- Developing hybrid mobile applications for Android and iOS platforms
-- Enhancing web/mobile application analysis, design, and user experience
+- Developing custom user interface components.
+- Developing hybrid mobile applications for Android and iOS platforms.
+- Developing single-page web applications.
+- Web/Mobile application analysis and UI/UX design.
 
-The primary technologies that I utilize are JavaScript, PHP, and MySql.
+Technologies I use:
+
+JavaScript(OOP), HTML5, CSS3, JSON, PHP, SQL, MySQL, MSSQL, SQLite, jQuery, Ajax, Restful API, React JS, TypeScript, Figma, Sketch, Android Studio, Xcode, Visual Studio Code, Apache Cordova, Ionic Capacitor
 
 For more information about my work, please feel free to visit my personal page.<br>
 http://bugraozden.com/
