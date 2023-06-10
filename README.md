@@ -12,7 +12,7 @@ Technologies I use:
 JavaScript(OOP), HTML5, CSS3, JSON, PHP, SQL, MySQL, MSSQL, SQLite, jQuery, Ajax, Restful API, React JS, TypeScript, Figma, Sketch, Android Studio, Xcode, Visual Studio Code, Apache Cordova, Ionic Capacitor
 
 For more information about my work, please feel free to visit my personal page.<br>
-http://bugraozden.com/
+https://github.com/bug7a
 
 Example project:<br>
 https://bug7a.github.io/cordova-mobile-app-ui-template/
