@@ -1,21 +1,12 @@
 ### Hi there 👋
 
-My areas of expertise include:
+Some of my projects:
 
-- Developing custom user interface components.
-- Developing hybrid mobile applications for Android and iOS platforms.
-- Developing single-page web applications.
-- Web/Mobile application analysis and UI/UX design.
+basic.js Library<br>
+[https://github.com/bug7a](https://bug7a.github.io/basic.js/)
 
-Technologies I use:
-
-JavaScript(OOP), HTML5, CSS3, JSON, PHP, SQL, MySQL, MSSQL, SQLite, jQuery, Ajax, Restful API, React JS, TypeScript, Figma, Sketch, Android Studio, Xcode, Visual Studio Code, Apache Cordova, Ionic Capacitor
-
-For more information about my work, please feel free to visit my personal page.<br>
-https://github.com/bug7a
-
-Example project:<br>
-https://bug7a.github.io/cordova-mobile-app-ui-template/
+JavaScript Movile App Template:<br>
+[https://bug7a.github.io/cordova-mobile-app-ui-template/](https://bug7a.github.io/javascript-mobile-app-template/)
 
 <br>
 
