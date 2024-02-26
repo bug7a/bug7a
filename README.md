@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Some of my projects:
+Some of My Projects:
 
-basic.js Library: Create interactive user interfaces with basic programming skills.<br>
+- basic.js Library: Create interactive user interfaces with basic programming skills.<br>
 [https://github.com/bug7a](https://bug7a.github.io/basic.js/)
 
-JavaScript Mobile App Template: Simple and fully customizable user interface template.<br>
+- JavaScript Mobile App Template: Simple and fully customizable user interface template.<br>
 [https://bug7a.github.io/cordova-mobile-app-ui-template/](https://bug7a.github.io/javascript-mobile-app-template/)
 
 <br>
