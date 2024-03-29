@@ -2,7 +2,7 @@
 
 Some of My Projects:
 
-- basic.js Library: Create interactive user interfaces with basic programming skills.<br>
+- basic.js UI Library: Create interactive user interfaces with basic programming skills.<br>
 https://bug7a.github.io/basic.js/
 
 - JavaScript Mobile App Template: Simple and fully customizable user interface template.<br>
