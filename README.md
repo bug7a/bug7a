@@ -3,7 +3,7 @@
 Some of My Projects:
 
 - Kodlama Eğitimi: Çocukların; kod yazmayı öğrenebilecekleri, eğlenceli bir eğitim.<br>
-[https://bug7a.github.io/basic.js/](https://bug7a.github.io/kodlama-egitimi/)
+https://bug7a.github.io/kodlama-egitimi/
 
 - basic.js UI Library: Create interactive user interfaces with basic programming skills.<br>
 https://bug7a.github.io/basic.js/
