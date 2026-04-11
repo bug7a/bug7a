@@ -6,7 +6,7 @@ Some of My Projects:
 https://bug7a.github.io/kodlama/
 
 - JS Components: Clean, object-oriented, and easily customizable UI components.
-https://www.youtube.com/@js-components
+  https://www.youtube.com/@js-components
 
 - basic.js UI Library: Create interactive user interfaces with basic programming skills.<br>
 https://bug7a.github.io/basic.js/
