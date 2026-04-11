@@ -5,11 +5,11 @@ Some of My Projects:
 - Kodlama Eğitimi: Çocukların; kod yazmayı öğrenebilecekleri, eğlenceli bir eğitim.<br>
 https://bug7a.github.io/kodlama/
 
-- JS Components: Clean, object-oriented, and easily customizable UI components.<br>
-https://www.youtube.com/@js-components
-
 - basic.js UI Library: Create interactive user interfaces with basic programming skills.<br>
 https://bug7a.github.io/basic.js/
+
+- JS Components: Clean, object-oriented, and easily customizable UI components.<br>
+https://www.youtube.com/@js-components
 
 - JavaScript Mobile App Template: Simple and fully customizable user interface template.<br>
 https://bug7a.github.io/javascript-mobile-app-template/
