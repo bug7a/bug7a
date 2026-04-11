@@ -5,8 +5,7 @@ Some of My Projects:
 - Kodlama Eğitimi: Çocukların; kod yazmayı öğrenebilecekleri, eğlenceli bir eğitim.<br>
 https://bug7a.github.io/kodlama/
 
-- JS Components: Clean, object-oriented, and easily customizable UI components,
-  built with JavaScript for modern web-based applications.
+- JS Components: Clean, object-oriented, and easily customizable UI components.
 https://www.youtube.com/@js-components
 
 - basic.js UI Library: Create interactive user interfaces with basic programming skills.<br>
